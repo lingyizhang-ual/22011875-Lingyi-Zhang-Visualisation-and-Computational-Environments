@@ -1,6 +1,8 @@
 # 22011875-Lingyi-Zhang-Visualisation-and-Computational-Environments
 Game name: you vs tanks
 
+video:https://youtu.be/Qvr1l-LAxQ0
+
 Game Overview: The game is a virtual game. In this game, players fight against tanks. I think the combination of left and right hands is a very interesting design idea, so I designed the player to need both hands to do different actions in order to control the game character. The player's left hand needs to hold the controller as in the game screen to throw out in order to make the game character attack, and the right hand needs to use the keyboard to control the movement of the game character. When the player defeats all tanks, the player wins. When a player is defeated by a tank, the player loses the game.
 The game uses Unity to develop a 3D environment and compile the code, while using Arduino to control the hardware.
 
